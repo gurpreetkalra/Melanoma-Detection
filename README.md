@@ -16,6 +16,8 @@ Background: Melanoma is a deadly type of skin cancer accounting for 75% of skin 
 Business Problem: Manual diagnosis of melanoma requires significant effort and expertise. Automating this process can greatly assist dermatologists in identifying potential cases of melanoma more quickly and accurately.
 Dataset: The dataset consists of 2357 images of malignant and benign oncological diseases from the International Skin Imaging Collaboration (ISIC). It covers a range of diseases including Actinic keratosis, Basal cell carcinoma, Dermatofibroma, Melanoma, Nevus, Pigmented benign keratosis, Seborrheic keratosis, Squamous cell carcinoma, and Vascular lesion.
 
+
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
